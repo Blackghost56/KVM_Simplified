@@ -21,7 +21,7 @@ Are used:
 Use as keys chip CD4066B. After assembly, it turned out that the key passband is small, see the picture [\V1_CD4066B\pic](https://github.com/Blackghost56/KVM_Simplified/blob/master/V1_CD4066B/pic/). 
 There is also a problem with impedance, a few Om units required, ~ 1 kOm (for two keys connected in series, and 500 Om for one). There were other errors as well.
 
-2. Second version [V2_FSUSB30](https://github.com/Blackghost56/KVM_Simplified/blob/master/V2_FSUSB30)(*In the process*)
+2. Second version [V2_FSUSB30](https://github.com/Blackghost56/KVM_Simplified/blob/master/V2_FSUSB30)(*Success*)
 
 Use as keys chip FSUSB30.
 
