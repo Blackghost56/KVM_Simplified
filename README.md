@@ -4,6 +4,8 @@
 A device for quickly switching keyboard, mouse or other USB 2.0 devices from one computer to another. 
 What is my motivation? Just for fun, and a little need
 
+![](https://github.com/Blackghost56/KVM_Simplified/blob/master/V2_FSUSB30/case/pic/1.png)
+
 ---
 
 Are used:
